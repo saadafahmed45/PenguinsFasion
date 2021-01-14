@@ -1,0 +1,151 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    color: #3E3E3E;
+}
+header{
+    padding: 20px 0px;
+    background-color: #FFFBF0;
+}
+
+.nav_manu a{
+    font-size: 16px;
+     font-weight: 500;
+    color: #000 !important;
+    display: block;
+    margin-left: 25px;
+}
+ nav{
+    float: right;
+   
+}
+.header_content{
+    margin-top: 50px;
+}
+
+.header_content h2{
+      font-size: 54px;
+      font-weight: 700;
+      color: rgba(226, 165, 34, 0.904);
+      text-transform: uppercase;
+
+}
+.header_content_title {
+    margin-top: 15%;
+}
+
+.header_content span{
+    color: #363958;
+}
+
+.header_content_title a {
+    border-radius: 10px;
+}
+
+
+
+
+/* jacket area start */
+.jacket_header{
+    padding: 30px 0px;
+}
+.jacket_header h2{
+    color: #363958;
+    font-size: 48px;
+    font-weight: 700;
+}
+.card{
+    /* box-shadow: 10px 10px 40px gray; */
+border-radius: 20px;
+height: 100%;
+
+}
+.card-title{
+    color: #363958;
+    font-size: 24px;
+    font-weight: 600;
+}
+.card-img-top img{
+max-width: 92%;
+margin-top: 0px;
+height: auto;
+margin-top: 25px;
+}
+
+.card-img-top {
+    border-radius: 5%;
+    background-color: #E5E5E5;
+    width: 90%;
+    height: 300px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+.jacket_footer{
+    margin-bottom: 15px;
+    overflow: hidden;
+    font-size: 14px;
+}
+.jacket_price span{
+    color: #FABE4C;
+    font-size: 36px;
+    font-weight: 900;
+
+}
+.jacket_price{
+    width: 50%;
+    float: left;
+}
+
+.jacket_botton{
+    width: 50%;
+  float: left;
+}
+/* jacket area end */
+
+/* delivery are start */
+ .delivery{
+    padding: 100px 0px;
+} 
+
+
+.delivery_singel_box{
+    margin-bottom: 15px;
+  overflow: hidden;
+  font-size: 14px;
+  
+  box-shadow:0px 0px 5px #E5E5E5;
+border-radius: 20px;
+height: 60%;
+background-color: #fff;
+}
+.delivery_img img{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+  margin-top: 20px; 
+}
+.delivery_img{
+    width: 30%;
+  float: left;
+  
+}
+.delivery_content{
+    width: 70%;
+  float: left;
+}
+.delivery_content h3{
+    color: #363958;
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+footer p {
+    text-align: center;
+    color: rgb(54, 59, 85);
+    margin:20px 0px; 
+  }
+ 
+       /*THE END*/
