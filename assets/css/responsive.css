@@ -1,0 +1,24 @@
+
+/* mobile layout */
+@media only screen and (min-width:200px) and (max-width:480px){
+
+     .logo_img img{   
+            width: 50%; 
+    }
+    .navbar {  
+        margin-top: -46px;
+    }
+    .header_content_img {
+        margin-top: 15%;
+    }
+    .header_content h2 {
+        font-size: 50px;
+        font-weight: 700;
+        color: rgba(226, 165, 34, 0.904);
+        text-transform: uppercase;
+    }
+    .header_content {
+        margin-top: 0px; 
+    }
+   
+}
